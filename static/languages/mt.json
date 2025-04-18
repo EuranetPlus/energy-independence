@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm hi indipendenti mill-enerġija l-Ewropa?",
+  "subtitle": "Mill-2024 il-pajjiżi tal-UE27 jilħqu punteġġ ta' 4.0 minn 10.0 f'termini ta' indipendenza tal-enerġija.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il-punteġġ tal-indipendenza tal-enerġija huwa kkalkulat bħala 75% tal-punteġġ għall-fjuwils fossili importati flimkien ma '25% tal-punteġġ għall-elettriku importat, aġġustat bil-bidla fl-importazzjonijiet tal-elettriku mill-2021 sal-2023. Punteġġ ogħla jindika indipendenza tal-enerġija akbar.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
+  "textSource": "Kunsill Ewropew għar-Relazzjonijiet Barranin",
   "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "Punteġġ tal-indipendenza tal-enerġija",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
