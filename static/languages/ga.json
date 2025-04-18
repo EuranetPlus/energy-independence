@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé chomh neamhspleách ó thaobh fuinnimh atá an Eoraip?",
+  "subtitle": "Ó 2024 amach sroichfidh 27 tír an AE scór 4.0 as 10.0 i dtéarmaí neamhspleáchais fuinnimh.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Ríomhtar an scór neamhspleáchais fuinnimh mar 75% den scór do bhreoslaí iontaise allmhairithe móide 25% den scór do leictreachas allmhairithe, arna choigeartú ag an athrú ar allmhairí leictreachais ó 2021 go 2023. Léiríonn scór níos airde neamhspleáchas fuinnimh níos mó.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
+  "textSource": "An Chomhairle Eorpach um Chaidreamh Eachtrach",
   "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "Scór neamhspleáchais fuinnimh",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
