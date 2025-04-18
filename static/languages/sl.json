@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kako energetsko neodvisna je Evropa?",
+  "subtitle": "Od leta 2024 države EU27 dosegajo oceno 4,0 od 10,0 glede energetske neodvisnosti.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Ocena energetske neodvisnosti je izračunana kot 75 % ocene za uvožena fosilna goriva plus 25 % ocene za uvoženo električno energijo, prilagojeno spremembi uvoza električne energije od leta 2021 do 2023. Višja ocena pomeni večjo energetsko neodvisnost.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "textSource": "Evropski svet za zunanje odnose",
+  "linkDataAccessDescription": "Dostopajte do podatkov",
+  "legend1": "Podatki niso na voljo",
+  "customUnitLabel": "Ocena energetske neodvisnosti",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
