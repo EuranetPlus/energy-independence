@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle est l’indépendance énergétique de l’Europe ?",
+  "subtitle": "En 2024, les pays de l’UE27 atteignent un score de 4,0 sur 10,0 en termes d’indépendance énergétique.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Le score d'indépendance énergétique est calculé comme 75 % du score pour les combustibles fossiles importés plus 25 % du score pour l'électricité importée, ajusté par l'évolution des importations d'électricité de 2021 à 2023. Un score plus élevé indique une plus grande indépendance énergétique.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Conseil européen des relations extérieures",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "Score d'indépendance énergétique",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
