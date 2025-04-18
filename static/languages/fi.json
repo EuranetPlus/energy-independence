@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
+  "title": "Kuinka energiariippumaton Eurooppa on?",
+  "subtitle": "Vuodesta 2024 lähtien EU27-maiden energiariippumattomuus on 4,0 pistettä 10,0:sta.",
   "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "textNote": "Energiariippumattomuuspistemääräksi lasketaan 75 % fossiilisten tuontipolttoaineiden pistemäärästä plus 25 % tuontisähkön pistemäärästä, joka on oikaistu sähköntuonnin muutoksella vuodesta 2021 vuoteen 2023. Korkeampi pistemäärä tarkoittaa suurempaa energiariippumattomuutta.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "ulkosuhteiden Eurooppa-neuvosto",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
   "legend1": "Tietoja ei ole saatavilla",
+  "customUnitLabel": "Energiariippumattomuuspisteet",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
