@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de independentă energetic este Europa?",
+  "subtitle": "Începând cu 2024, țările UE27 ating un scor de 4,0 din 10,0 în ceea ce privește independența energetică.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Scorul de independență energetică este calculat ca 75% din scorul pentru combustibilii fosili importați plus 25% din scorul pentru energia electrică importată, ajustat prin modificarea importurilor de energie electrică din 2021 până în 2023. Un scor mai mare indică o mai mare independență energetică.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Consiliul European pentru Relații Externe",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
   "legend1": "Nu există date disponibile",
+  "customUnitLabel": "Scorul de independență energetică",
   "tooltipExtraInfoLabel": "Click aici"
 }
