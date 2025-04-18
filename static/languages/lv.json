@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik Eiropa ir enerģētiski neatkarīga?",
+  "subtitle": "No 2024. gada ES-27 valstis enerģētiskās neatkarības ziņā sasniedz 4,0 punktu no 10,0.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Enerģētiskās neatkarības rādītājs tiek aprēķināts kā 75% no vērtējuma par importēto fosilo kurināmo plus 25% no punkta par importēto elektroenerģiju, kas koriģēts ar elektroenerģijas importa izmaiņām no 2021. līdz 2023. gadam. Augstāks rādītājs norāda uz lielāku enerģētisko neatkarību.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eiropas Ārējo attiecību padome",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
   "legend1": "Nav pieejami dati",
+  "customUnitLabel": "Enerģētiskās neatkarības rādītājs",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
