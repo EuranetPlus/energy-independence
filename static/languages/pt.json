@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Quão independente energética é a Europa?",
+  "subtitle": "Em 2024, os países da UE27 atingiram uma pontuação de 4,0 em 10,0 em termos de independência energética.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "A pontuação de independência energética é calculada como 75% da pontuação para combustíveis fósseis importados mais 25% da pontuação para eletricidade importada, ajustada pela mudança nas importações de eletricidade de 2021 a 2023. Uma pontuação mais alta indica maior independência energética.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Conselho Europeu de Relações Exteriores",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Nenhum dado disponível",
+  "customUnitLabel": "Pontuação de independência energética",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
