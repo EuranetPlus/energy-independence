@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur energioberoende är Europa?",
+  "subtitle": "Från och med 2024 når EU27-länderna en poäng på 4,0 av 10,0 när det gäller energioberoende.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Energioberoendepoängen beräknas som 75 % av poängen för importerade fossila bränslen plus 25 % av poängen för importerad el, justerat med förändringen av elimporten från 2021 till 2023. En högre poäng indikerar större energioberoende.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
+  "textSource": "Europeiska rådet om utländska relationer",
   "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "Poäng för energioberoende",
   "tooltipExtraInfoLabel": "Klicka här"
 }
