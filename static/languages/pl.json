@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jak niezależna energetycznie jest Europa?",
+  "subtitle": "W 2024 r. kraje UE-27 osiągnęły wynik 4,0 na 10,0 w zakresie niezależności energetycznej.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Wynik niezależności energetycznej oblicza się jako 75% wyniku dla importowanych paliw kopalnych powiększonego o 25% wyniku dla importowanej energii elektrycznej, skorygowanego o zmianę importu energii elektrycznej w latach 2021–2023. Wyższy wynik oznacza większą niezależność energetyczną.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
+  "textSource": "Europejska Rada Stosunków Zagranicznych",
   "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "Wynik niezależności energetycznej",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
