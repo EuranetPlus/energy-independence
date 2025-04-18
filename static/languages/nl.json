@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe energieonafhankelijk is Europa?",
+  "subtitle": "Vanaf 2024 behalen de EU27-landen een score van 4,0 uit 10,0 op het gebied van energieonafhankelijkheid.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De score voor energieonafhankelijkheid wordt berekend als 75% van de score voor geïmporteerde fossiele brandstoffen plus 25% van de score voor geïmporteerde elektriciteit, aangepast op basis van de verandering in elektriciteitsimport van 2021 tot 2023. Een hogere score duidt op een grotere energieonafhankelijkheid.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europese Raad voor Buitenlandse Betrekkingen",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "Energieonafhankelijkheidsscore",
   "tooltipExtraInfoLabel": "Klik hier"
 }
